@@ -1,1 +1,3 @@
-cool ass logging tool but i aint responsible for the shit u do with it
+MAKE SURE TO CHANGE  THE WEBHOOK IN LOG.JS
+
+made by @uljw
