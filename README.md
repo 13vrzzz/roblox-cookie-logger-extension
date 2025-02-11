@@ -1,0 +1,1 @@
+cool ass logging tool but i aint responsible for the shit u do with it
